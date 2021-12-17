@@ -1,1 +1,15 @@
+How to Install PHP in windows
+Step 1: Go to official site of PHP https://www.php.net/downloads.php
+Step 2: If downloading for Windows machine look for the Windows downloads link in each version of Php.
+Step 3: Extract the files from downloaded zip folder.
+Step 4: Move extracted folder to C drive
+Step 5: Add C:\php to the path environment variable
+
+How to Install PHP in Mac OS X
+Step 1: brew install php<<php_version>> (Make sure that brew is installed.)
+
+Run files
+Step 1: Save the files, let’s say in location E:\Test.
+Step 2: Open command prompt under the location where the files are saved i.e. E:\Test.
+Step 3: To run files type php <filename.php> and enter
 
